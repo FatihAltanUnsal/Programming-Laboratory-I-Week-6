@@ -1,4 +1,4 @@
-# Ride Sharing System (Hafta 5)
+# Ride Sharing System (Hafta 6)
 
 Laboratuvarda yaptığımız sürüş ücreti hesaplama ödevi. Sınıf hiyerarşisi ve kalıtım (inheritance) kullanıldı.
 
